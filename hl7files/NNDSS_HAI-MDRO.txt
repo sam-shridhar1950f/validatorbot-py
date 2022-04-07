@@ -1,0 +1,77 @@
+MSH|^~\&|ACDP^2.16.840.1.114222.4.1.3676^ISO|OR-DHS^2.16.840.1.114222.4.1.3676^ISO|PHINCDS^2.16.840.1.114222.4.3.2.10^ISO|PHIN^2.16.840.1.114222^ISO|20220216194016||ORU^R01^ORU_R01|20220216-OR-000515855|T|2.5.1|||||||||NOTF_ORU_v3.0^PHINProfileID^2.16.840.1.114222.4.10.3^ISO~Generic_MMG_V2.0^PHINMsgMapID^2.16.840.1.114222.4.10.4^ISO~HAI_MDRO_MMG_V1.0^PHINMsgMapID^2.16.840.1.114222.4.10.4^ISO
+PID|1||635425^^^ACDP&2.16.840.1.114222.4.1.3676&ISO||~^^^^^^S||19290101|F||2054-5^Black or African American^CDCREC|^^Portland^41^97213^^^^41051^41051002402|||||||||||2186-5^Not Hispanic or Latino^CDCREC
+OBR|1||515855^ACDP^2.16.840.1.114222.4.1.3676^ISO|68991-9^Epidemiologic Information^LN|||20220216194016|||||||||||||||20220216194016|||F||||||50244^Carbapenemase-Producing Carbapenem-Resistant Enterobacteriaceae (CP-CRE)^NND
+OBX|1|CWE|77965-2^Immediate National Notifiable Condition^LN||N^No^HL70136||||||F
+OBX|2|CWE|78746-5^Country of Birth^LN||USA^United States^ISO3166_1||||||F
+OBX|3|CWE|77983-5^Country of Usual Residence^LN||USA^United States^ISO3166_1||||||F
+OBX|4|CWE|77966-0^Reporting State^LN||41^Oregon^FIPS5_2||||||F
+OBX|5|CWE|77967-8^Reporting County^LN||41051^Multnomah^FIPS6_4||||||F
+OBX|6|CWE|77968-6^National Reporting Jurisdiction^LN||41^Oregon^FIPS5_2||||||F
+OBX|7|ST|77969-4^Jurisdiction Code^LN||41||||||F
+OBX|8|DT|77995-9^Date of Report/Referral^LN||20181130||||||F
+OBX|9|CWE|48766-0^Information Source^LN||OTH^other^NULLFL||||||F
+OBX|10|TS|77972-8^Earliest Date Reported to County^LN||20190708||||||F
+OBX|11|TS|77973-6^Earliest Date Reported to State^LN||20190708||||||F
+OBX|12|CWE|77974-4^Hospitalized^LN||Y^Yes^HL70136||||||F
+OBX|13|TS|8656-1^Admission Date^LN||20181120||||||F
+OBX|14|TS|8649-6^Discharge Date^LN||20181215||||||F
+OBX|15|SN|78033-8^Duration of hospital stay in days^LN||^25|d^days^UCUM|||||F
+OBX|16|TS|77975-1^Diagnosis Date^LN||20181201||||||F
+OBX|17|TS|11368-8^Date of Illness Onset^LN||20181130||||||F
+OBX|18|CWE|77978-5^Subject Died^LN||N^No^HL70136||||||F
+OBX|19|DT|77979-3^Case Investigation Start Date^LN||20190708||||||F
+OBX|20|CWE|77980-1^Case Outbreak indicator^LN||UNK^Unknown^NULLFL||||||F
+OBX|21|CWE|77984-3^Country of Exposure^LN|1|IND^India^ISO3166_1||||||F
+OBX|22|CWE|77990-0^Case Class Status Code^LN||410605003^Confirmed Present^SCT||||||F
+OBX|23|SN|77991-8^MMWR Week^LN||^48||||||F
+OBX|24|DT|77992-6^MMWR Year^LN||2018||||||F
+OBX|25|ST|77993-4^State Case ID^LN||515855||||||F
+OBX|26|DT|77970-2^Date of First Reported to PHD^LN||20190708||||||F
+OBX|27|ST|74549-7^Person Reporting to CDC - Name^LN||June Bancroft||||||F
+OBX|28|ST|74548-9^Person Reporting to CDC - Phone^LN||9716731111||||||F
+OBX|29|ST|74547-1^Person Reporting to CDC - Email^LN||june.e.bancroft@state.or.us||||||F
+OBX|30|SN|77998-3^Age at case investigation^LN||^89|a^years^UCUM|||||F
+OBX|31|CWE|TRAVEL38^Travel Outside USA Prior to Illness Onset within Program Specific Timeframe^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|32|CWE|82764-2^International Destination(s) of Recent Travel^LN||IND^India^ISO3166_1||||||F
+OBX|33|CWE|90366-6^Received Healthcare Outside the USA^LN||Y^Yes^HL70136||||||F
+OBX|34|CWE|91514-0^Country of Healthcare Outside the USA^LN||IND^India^ISO3166_1||||||F
+OBX|35|CWE|INV1109^Previously Counted Case^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|36|ST|INV1110^Previously Reported State Case Number^PHINQUESTION||515220||||||F
+OBX|37|CWE|INV290^Test Type^PHINQUESTION|1|86930-5^Carbapenemase production^LN||||||F
+OBX|38|CWE|85069-3^Test Method^LN|1|PLR533^Carbapenemase Nordmann-Poirel method^PLR||||||F
+OBX|39|CWE|INV291^Test Result/Interpretation^PHINQUESTION|1|10828004^Positive^SCT||||||F
+OBX|40|CWE|LAB278^Organism Name^PHINQUESTION|1|168203004^Organism not Isolated^SCT||||||F
+OBX|41|TS|68963-8^Specimen Collection Date/Time^LN|1|20181201||||||F
+OBX|42|CWE|66746-9^Specimen Type^LN|1|119297000^Blood specimen^SCT||||||F
+OBX|43|ST|LABAST2^Isolate Identifier^PHINQUESTION|1|CLINIC123456||||||F
+OBX|44|CWE|INV290^Test Type^PHINQUESTION|2|LAB608^Other Test Type^PHINQUESTION^^^^^^Culture||||||F
+OBX|45|CWE|85069-3^Test Method^LN|2|PHC2154^MALDI-TOF MS^CDCPHINVS||||||F
+OBX|46|CWE|INV291^Test Result/Interpretation^PHINQUESTION|2|10828004^Positive^SCT||||||F
+OBX|47|CWE|LAB278^Organism Name^PHINQUESTION|2|14385002^Enterobacter cloacae^SCT||||||F
+OBX|48|TS|68963-8^Specimen Collection Date/Time^LN|2|20181203||||||F
+OBX|49|CWE|66746-9^Specimen Type^LN|2|119297000^Blood specimen^SCT||||||F
+OBX|50|CWE|INV290^Test Type^PHINQUESTION|3|86930-5^Carbapenemase production^LN||||||F
+OBX|51|CWE|85069-3^Test Method^LN|3|UNK^Unknown^NULLFL||||||F
+OBX|52|CWE|INV291^Test Result/Interpretation^PHINQUESTION|3|INV^Invalid^NULLFL||||||F
+OBX|53|CWE|LAB278^Organism Name^PHINQUESTION|3|168203004^Organism not Isolated^SCT||||||F
+OBX|54|CWE|48018-6^Gene Identifier^LN|3|PLR560^KPC^PLR||||||F
+OBX|55|ST|LAB708^State Lab Isolate Id^PHINQUESTION|3|PHL123456||||||F
+OBX|56|TS|68963-8^Specimen Collection Date/Time^LN|3|20181203||||||F
+OBX|57|CWE|66746-9^Specimen Type^LN|3|119297000^Blood specimen^SCT||||||F
+OBX|58|CWE|INV290^Test Type^PHINQUESTION|4|LAB608^Other Test Type^PHINQUESTION^^^^^^Culture||||||F
+OBX|59|CWE|85069-3^Test Method^LN|4|9718006^Polymerase chain reaction analysis (procedure)^SCT||||||F
+OBX|60|CWE|INV291^Test Result/Interpretation^PHINQUESTION|4|10828004^Positive^SCT||||||F
+OBX|61|CWE|LAB278^Organism Name^PHINQUESTION|4|14385002^Enterobacter cloacae^SCT||||||F
+OBX|62|CWE|48018-6^Gene Identifier^LN|4|PLR560^KPC^PLR||||||F
+OBX|63|ST|LAB708^State Lab Isolate Id^PHINQUESTION|4|PHL123456||||||F
+OBX|64|TS|68963-8^Specimen Collection Date/Time^LN|4|20181203||||||F
+OBX|65|CWE|66746-9^Specimen Type^LN|4|119297000^Blood specimen^SCT||||||F
+OBX|66|CWE|INV290^Test Type^PHINQUESTION|5|LAB608^Other Test Type^PHINQUESTION^^^^^^Culture||||||F
+OBX|67|CWE|85069-3^Test Method^LN|5|PHC2154^MALDI-TOF MS^CDCPHINVS||||||F
+OBX|68|CWE|INV291^Test Result/Interpretation^PHINQUESTION|5|INV^Invalid^NULLFL||||||F
+OBX|69|CWE|LAB278^Organism Name^PHINQUESTION|5|14385002^Enterobacter cloacae^SCT||||||F
+OBX|70|CWE|48018-6^Gene Identifier^LN|5|PLR560^KPC^PLR||||||F
+OBX|71|ST|LAB708^State Lab Isolate Id^PHINQUESTION|5|PHL123456||||||F
+OBX|72|TS|68963-8^Specimen Collection Date/Time^LN|5|20181203||||||F
+OBX|73|CWE|66746-9^Specimen Type^LN|5|119297000^Blood specimen^SCT||||||F
+OBX|74|ST|85658-3^Current Occupation^LN|1|Nurse||||||F

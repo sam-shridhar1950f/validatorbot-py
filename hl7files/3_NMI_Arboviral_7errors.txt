@@ -1,0 +1,59 @@
+MSH|^~\&|NBS.GUDOH.Test^2.16.840.1.114222.4.3.15.1.2^ISO|CSC^2.16.840.1.114222.4.1.3648^ISO|PHINCDS^2.16.840.1.114222.4.3.2.10^ISO|PHIN^2.16.840.1.114222^ISO|20211127032401.426||ORU^R01^ORU_R01|NOT10033000GU012021-11-27T03:24:01.426|T|2.5.1|||||||||NND_ORU_v2.0^PHINProfileID^2.16.840.1.114222.4.10.3^ISO~Arbo_Case_Map_v1.0^PHINMsgMapID^2.16.840.1.114222.4.10.4^ISO
+PID|1||PSN10173029GU01^^^NBS.GUDOH.Test&2.16.840.1.114222.4.3.15.1.2&ISO||~^^^^^^S||19900101|F||1002-5^American Indian or Alaska Native^2.16.840.1.113883.6.238|^^^66^96910^^^^66010|||||||||||2186-5^Not Hispanic or Latino^2.16.840.1.113883.6.238
+OBR|1|""|CAS10092000GU01^NBS.GUDOH.Test^2.16.840.1.114222.4.3.15.1.2^ISO|PERSUBJ^Person Subject^2.16.840.1.114222.4.5.274|||20211106035138.095|||||||||||||||20211106035138.095|||F||||||10049^Encephalitis, West Nile (non-neuroinvasive)^2.16.840.1.114222.4.5.277
+OBR|2|""|CAS10092000GU01^NBS.GUDOH.Test^2.16.840.1.114222.4.3.15.1.2^ISO|NOTF^Individual Case Notification^2.16.840.1.114222.4.5.274|||20211106035138.095|||||||||||||||20211106035138.095|||F||||||10049^Encephalitis, West Nile (non-neuroinvasive)^2.16.840.1.114222.4.5.277
+OBX|1|CWE|161882006^Stiff Neck^2.16.840.1.113883.6.96^161882006^Stiff Neck^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|2|CWE|16932000^Nausea or Vomiting^2.16.840.1.113883.6.96^16932000^Nausea or Vomiting^L||UNK^Unknown^2.16.840.1.113883.5.1008||||||F
+OBX|3|CWE|20262006^Ataxia^2.16.840.1.113883.6.96^20262006^Ataxia^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|4|CWE|25064002^Headache^2.16.840.1.113883.6.96^25064002^Headache^L||Y^Yes^2.16.840.1.113883.12.136||||||F
+OBX|5|CWE|271795006^Fatigue or Malaise^2.16.840.1.113883.6.96^271795006^Fatigue or Malaise^L||Y^Yes^2.16.840.1.113883.12.136||||||F
+OBX|6|CWE|386661006^Fever^2.16.840.1.113883.6.96^386661006^Fever^L||Y^Yes^2.16.840.1.113883.12.136||||||F
+OBX|7|CWE|419284004^Altered Mental Status^2.16.840.1.113883.6.96^419284004^Altered Mental Status^L||UNK^Unknown^2.16.840.1.113883.5.1008||||||F
+OBX|8|ST|56831-1^Other Symptoms (Specify)^2.16.840.1.113883.6.1^568311^Other Symptoms^L||Feeling tired and exhausted||||||F
+OBX|9|CWE|63893-2^Pregnancy Outcome^2.16.840.1.113883.6.1^638932^Pregnancy Outcome^L||77386006^Still pregnant^2.16.840.1.113883.6.96||||||F
+OBX|10|CWE|68962001^Myalgia^2.16.840.1.113883.6.96^68962001^Myalgia^L||Y^Yes^2.16.840.1.113883.12.136||||||F
+OBX|11|TS|75203-0^Mothers Last Menstrual Period Before Delivery^2.16.840.1.113883.6.1^752030^Mother's Last Menstrual Period Before Delivery^L||20210528000000.000||||||F
+OBX|12|CWE|91175000^Seizures^2.16.840.1.113883.6.96^91175000^Seizures^L||UNK^Unknown^2.16.840.1.113883.5.1008||||||F
+OBX|13|CWE|9826008^Conjunctivitis^2.16.840.1.113883.6.96^9826008^Conjunctivitis^L||UNK^Unknown^2.16.840.1.113883.5.1008||||||F
+OBX|14|CWE|ARB001^Arbovirus^2.16.840.1.114222.4.5.232^ARB001^Type of Arbovirus^L||57311007^West Nile virus^2.16.840.1.113883.6.96||||||F
+OBX|15|CWE|ARB002^ClinicalSyndrome^2.16.840.1.114222.4.5.232^ARB002^Clinical Syndrome^L||OTH^Other Clinical^2.16.840.1.113883.5.1008||||||F
+OBX|16|CWE|ARB003^LabAcquired^2.16.840.1.114222.4.5.232^ARB003^Lab Acquired^L||Y^Yes^2.16.840.1.113883.12.136||||||F
+OBX|17|CWE|ARB005^BloodDonor^2.16.840.1.114222.4.5.232^ARB005^Blood Donor^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|18|CWE|ARB006^BloodTransfusion^2.16.840.1.114222.4.5.232^ARB006^Blood Transfusion Received^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|19|CWE|ARB007^OrganDonor^2.16.840.1.114222.4.5.232^ARB007^Organ Donor^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|20|CWE|ARB008^OrganTransplant^2.16.840.1.114222.4.5.232^ARB008^Organ Transplant Received^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|21|CWE|ARB011^Published^2.16.840.1.114222.4.5.232^ARB011^CDC Publish Indicator^L||Y^Yes^2.16.840.1.113883.12.136||||||F
+OBX|22|CWE|ARB050^Clinical Syndrome, Secondary^2.16.840.1.114222.4.5.232^ARB050^Clinical Syndrome, Secondary^L||260413007^None^2.16.840.1.113883.6.96||||||F
+OBX|23|CWE|DEM126^Country of Birth^2.16.840.1.114222.4.5.232^DEM126^Country of Birth^L||USA^UNITED STATES^1.0.3166.1||||||F
+OBX|24|CWE|INV107^Reporting Jurisdiction^2.16.840.1.114222.4.5.232^INV107^Jurisdiction^L||||||||F
+OBX|25|CWE|INV109^Case Investigation Status Code^2.16.840.1.114222.4.5.232^INV109^Investigation Status^L||385651009^In progress^2.16.840.1.113883.6.96||||||F
+OBX|26|CWE|INV128^Hospitalized^2.16.840.1.114222.4.5.232^INV128^Was the patient hospitalized for this illness?^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|27|TS|INV137^Date of Illness Onset^2.16.840.1.114222.4.5.232^INV137^Illness Onset Date^L||20211015000000.000||||||F
+OBX|28|CWE|INV145^Did the patient die from this illness^2.16.840.1.114222.4.5.232^INV145^Did the patient die from this illness?^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|29|TS|INV147^Investigation Start Date^2.16.840.1.114222.4.5.232^INV147^Investigation Start Date^L||20211106000000.000||||||F
+OBX|30|CWE|INV152^Case Disease Imported Code^2.16.840.1.114222.4.5.232^INV152^Where was the disease acquired^L||PHC244^Indigenous^2.16.840.1.114222.4.5.274||||||F
+OBX|31|CWE|INV163^Case Class Status Code^2.16.840.1.114222.4.5.232^INV163^Case Status^L||410605003^Confirmed present^2.16.840.1.113883.6.96||||||F
+OBX|32|SN|INV165^MMWR Week^2.16.840.1.114222.4.5.232^INV165^MMWR Week^L||^44||||||F
+OBX|33|TS|INV166^MMWR Year^2.16.840.1.114222.4.5.232^INV166^MMWR Year^L||2021||||||F
+OBX|34|ST|INV173^State Case ID^2.16.840.1.114222.4.5.232^INV173^State Case ID^L||GU12345||||||F
+OBX|35|CWE|INV178^Pregnancy Status^2.16.840.1.114222.4.5.232^INV178^Is the patient pregnant?^L||Y^Yes^2.16.840.1.113883.12.136||||||F
+OBX|36|SN|INV2001^Patient Age Reported^2.16.840.1.114222.4.5.232^INV2001^Reported Age^L||^31|a^year [time]^2.16.840.1.113883.6.8|||||F
+OBX|37|CWE|INV501^Country of Usual Residence^2.16.840.1.114222.4.5.232^INV501^Country of Usual Residence^L||USA^UNITED STATES^1.0.3166.1||||||F
+OBX|38|CWE|NOT109^Reporting State^2.16.840.1.114222.4.5.232^NOT109^Reporting State^L||66^Guam^2.16.840.1.113883.6.92||||||F
+OBX|39|CWE|NOT116^National Reporting Jurisdiction^2.16.840.1.114222.4.5.232^NOT116^National Reporting Jurisdiction^L||66^Guam^2.16.840.1.113883.6.92||||||F
+OBX|40|CWE|PHC1400^Retro-orbital Pain^2.16.840.1.114222.4.5.274^PHC1400^Retro-orbital Pain^L||UNK^Unknown^2.16.840.1.113883.5.1008||||||F
+OBX|41|CWE|PHC1401^Extravascular Fluid Accumulation^2.16.840.1.114222.4.5.274^PHC1401^Extravascular Fluid Accumulation^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|42|CWE|PHC1403^Severe Plasma Leakage^2.16.840.1.114222.4.5.274^PHC1403^Severe Plasma Leakage^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|43|CWE|PHC1405^Severe Organ Involvement^2.16.840.1.114222.4.5.274^PHC1405^Severe Organ Involvement^L||N^No^2.16.840.1.113883.12.136||||||F
+OBX|44|TS|33882-2^Specimen Collection Date^2.16.840.1.113883.6.1^338822^Specimen Collection Date^L|1|20211020000000.000||||||F
+OBX|45|CWE|66746-9^Specimen Type^2.16.840.1.113883.6.1^667469^Specimen Type^L|1|119364003^Serum specimen^2.16.840.1.113883.6.96||||||F
+OBX|46|CWE|INV290^Test Type^2.16.840.1.114222.4.5.232^INV290^Test Type^L|1|LAB610^Serum PCR or NAT^2.16.840.1.114222.4.5.232||||||F
+OBX|47|CWE|INV291^Test Result / Interpretation^2.16.840.1.114222.4.5.232^INV291^Test Result/Interpretation^L|1|10828004^Positive^2.16.840.1.113883.6.96||||||F
+OBX|48|CWE|LAB606^Performing Lab Type^2.16.840.1.114222.4.5.232^LAB606^Performing Lab Type^L|1|PHC414^State Public Health Lab^2.16.840.1.114222.4.5.274||||||F
+OBX|49|CWE|INV290^Test Type^2.16.840.1.114222.4.5.232^INV290^Test Type^L|2|LAB613^CSF PCR^2.16.840.1.114222.4.5.232||||||F
+OBX|50|CWE|INV291^Test Result / Interpretation^2.16.840.1.114222.4.5.232^INV291^Test Result/Interpretation^L|2|373121007^Test Not Done^2.16.840.1.113883.6.96||||||F
+OBX|51|TS|33882-2^Specimen Collection Date^2.16.840.1.113883.6.1^338822^Specimen Collection Date^L|3|20211020000000.000||||||F
+OBX|52|CWE|66746-9^Specimen Type^2.16.840.1.113883.6.1^667469^Specimen Type^L|3|119364003^Serum specimen^2.16.840.1.113883.6.96||||||F
+OBX|53|CWE|INV290^Test Type^2.16.840.1.114222.4.5.232^INV290^Test Type^L|3|LAB625^Serum PRNT^2.16.840.1.114222.4.5.232||||||F
+OBX|54|CWE|INV291^Test Result / Interpretation^2.16.840.1.114222.4.5.232^INV291^Test Result/Interpretation^L|3|10828004^Positive^2.16.840.1.113883.6.96||||||F
+OBX|55|CWE|LAB606^Performing Lab Type^2.16.840.1.114222.4.5.232^LAB606^Performing Lab Type^L|3|PHC412^CDC Lab^2.16.840.1.114222.4.5.274||||||F

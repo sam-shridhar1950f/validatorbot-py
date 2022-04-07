@@ -1,0 +1,54 @@
+MSH|^~\&|ELRS^2.16.840.1.113883.3.1299.5.1.6.1.100^ISO|NJDOH^2.16.840.1.113883.3.1299^ISO|PHINCDS^2.16.840.1.114222.4.3.2.10^ISO|PHIN^2.16.840.1.114222^ISO|20191007103002.900||ORU^R01^ORU_R01|NJCDRSS20191007103002900|P|2.5.1|||||||||NOTF_ORU_v3.0^PHINProfileID^2.16.840.1.114222.4.10.3^ISO~Generic_MMG_V2.0^PHINMsgMapID^2.16.840.1.114222.4.10.4^ISO~Hepatitis_MMG_V1.0^PHINMsgMapID^2.16.840.1.114222.4.10.4^ISO
+PID|1||3219007^^^NJDOH&2.16.840.1.113883.3.1299&ISO||~^^^^^^S||19650610|M||2106-3^White^CDCREC|^^^34^08608^^^^34021|||||||||||2186-5^Not Hispanic or Latino^CDCREC
+NK1|1|||||||||||||||||||||||||||UNK^unknown^NULLFL
+OBR|1||1412261^ELRS^2.16.840.1.113883.3.1299.5.1.6.1.100^ISO|68991-9^Epidemiologic Information^LN|||20190627103800|||||||||||||||20191007095203|||C||||||10105^Hepatitis B virus infection, chronic^NND
+OBX|1|CWE|77990-0^Case Class Status Code^LN||410605003^Confirmed present^SCT||||||F
+OBX|2|SN|77998-3^Age at Case Investigation^LN||=^54|a^year [time]^UCUM|||||F
+OBX|3|CWE|77996-7^Pregnancy Status^LN||N^No^HL70136||||||F
+OBX|4|CWE|78746-5^Country of Birth^LN||CHN^CHINA^ISO3166_1||||||F
+OBX|5|CWE|77968-6^National Reporting Jurisdiction^LN||34^NJ^FIPS5_2||||||F
+OBX|6|TS|11368-8^Date of Illness Onset^LN||20140707||||||F
+OBX|7|DT|77995-9^Date reported^LN||20190418||||||F
+OBX|8|DT|77979-3^Case Investigation Start Date^LN||20140709||||||F
+OBX|9|TS|77973-6^Earliest ddate reported^LN||20140709||||||F
+OBX|10|TS|77975-1^Diagnosis Date^LN||20140709||||||F
+OBX|11|CWE|77989-2^Transmission Mode^LN||417564009^Sexual transmission^SCT||||||F
+OBX|12|CWE|77982-7^Case Disease Imported Code^LN||PHC246^Out of state^CDCPHINVS||||||F
+OBX|13|CWE|77974-4^Hospitalized^LN||N^No^HL70136||||||F
+OBX|14|CWE|77965-2^Immediate National Notifiable Condition^LN||N^No^HL70136||||||F
+OBX|15|SN|77991-8^MMWR Week^LN||=^28||||||F
+OBX|16|DT|77992-6^MMWR Year^LN||2014||||||F
+OBX|17|ST|74549-7^Person Reporting to CDC - Name^LN||Christina Tan||||||F
+OBX|18|ST|74548-9^Person Reporting to CDC - Phone Number^LN||6098255967||||||F
+OBX|19|ST|74547-1^Person Reporting to CDC - Email^LN||cdrs.admin@doh.nj.gov||||||F
+OBX|20|CWE|77966-0^Reporting State^LN||34^New Jersey^FIPS5_2||||||F
+OBX|21|CWE|PHC1304^Other Contact Type^CDCPHINVS||N^No^HL70136||||||F
+OBX|22|CWE|PHC300^Household member (non-sexual)^CDCPHINVS||Y^Yes^HL70136||||||F
+OBX|23|CWE|225517006^Sexual partners^SCT||N^No^HL70136||||||F
+OBX|24|CWE|INV653^Treated for STD^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|25|CWE|INV643^Injected Drug Use (IDU)^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|26|CWE|INV829^Ever had contact with Hepatitis^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|27|CWE|INV647^Clotting Factor before 1987^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|28|CWE|INV648^Ever a Medical/ Dental Blood Worker^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|29|CWE|MTH109^Mother birth country^PHINQUESTION||THA^THAILAND^ISO3166_1||||||F
+OBX|30|CWE|INV652^Received Medication for condition^PHINQUESTION||UNK^Unknown^NULLFL||||||F
+OBX|31|CWE|67098-4^Reason for testing^LN||PHC312^Follow-up testing (prior viral hepatitis marker)^CDCPHINVS||||||F
+OBX|32|CWE|INV576^Symptomatic^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|33|CWE|INV578^Jaundiced (Symptom)^PHINQUESTION||Y^Yes^HL70136||||||F
+OBX|34|CWE|LP38318-9^Hep Anti Hav^LN||UNK^Unknown^NULLFL||||||F
+OBX|35|CWE|LP38323-9^Hep Total Anti HBC^LN||260385009^Negative^SCT||||||F
+OBX|36|CWE|LP38325-4^Hep Anti HBC^LN||260385009^Negative^SCT||||||F
+OBX|37|CWE|LP38320-5^Hep Nucleic Acid Test^LN||260385009^Negative^SCT||||||F
+OBX|38|CWE|LP38329-6^Hep HBEAG^LN||10828004^Positive^SCT||||||F
+OBX|39|CWE|LP38331-2^Hep HBSAG^LN||10828004^Positive^SCT||||||F
+OBX|40|CWE|LP38332-0^Hep Anti HCV^LN||UNK^Unknown^NULLFL||||||F
+OBX|41|CWE|LP38335-3^Hep HCV RNA^LN||UNK^Unknown^NULLFL||||||F
+OBX|42|ST|77969-4^Jurisdiction Code^LN||S01||||||F
+OBX|43|ST|77993-4^Local Record ID^LN||1412261||||||F
+OBX|44|CWE|77983-5^Country of usual residence^LN||USA^UNITED STATES^ISO3166_1||||||F
+OBX|45|DT|77970-2^Date reported to PHD^LN||20140709||||||F
+OBX|46|CWE|77978-5^Subject died^LN||N^No^HL70136||||||F
+OBX|47|SN|1920-8^AST_SGOT^LN|1|100||||||F
+OBX|48|SN|1742-6^ALT_SGPT^LN|2|200||||||F
+OBX|49|SN|INV827^Liver Enzyme Upper Limit Normal^PHINQUESTION|2|=^300||||||F
+OBX|50|DT|INV826^Liver Enzyme Test Result Date^PHINQUESTION|2|20140709||||||F
